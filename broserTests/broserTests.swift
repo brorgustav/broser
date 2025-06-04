@@ -2,10 +2,11 @@
 //  broserTests.swift
 //  broserTests
 //
-//  Created by BGW on 2025-06-02.
+//  Created by BGW on 2025-06-04.
 //
 
 import Testing
+@testable import broser
 
 struct broserTests {
 
